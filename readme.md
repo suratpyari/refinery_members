@@ -17,9 +17,9 @@ Open your ``Gemfile`` and add this line to the bottom:
     gem 'refinerycms-member'
 
 Now run:
-
+		
 		bundle install
     rails generate refinerycms_members
     rake db:migrate
 
-Now you can see Members tab after restarting your web server.
+Now you can see 'Members' tab after restarting your web server.
