@@ -2,7 +2,7 @@
 
 By: [Surat Pyari]()
 
-This Plugin allows you to add members to your application. 
+This engine allows you to add members to your application. 
 
 ## Requirements
 
